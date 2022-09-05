@@ -37,7 +37,10 @@
     "trailingComma": "es5"
   },
   "name": "my-package-name-you-want-to-see-on-aws-lol",
-  "repository": "https://github.com/gustavobgt/github-actions-semantic-release-test",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gustavobgt/github-actions-semantic-release-test"
+  },
   "private": true,
   "author": "gustavobgt",
   "module": "dist/my-package-name-you-want-to-see-on-aws-lol.esm.js",
