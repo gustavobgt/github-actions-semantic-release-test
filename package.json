@@ -1,5 +1,5 @@
 {
-  "version": "0.1.0",
+  "version": "1.0.0",
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -42,7 +42,7 @@
     "url": "https://github.com/gustavobgt/github-actions-semantic-release-test"
   },
   "private": true,
-  "author": "gustavobgt",
+  "author": "gustavobgt <gustavo_bgt97@hotmail.com>",
   "module": "dist/my-package-name-you-want-to-see-on-aws-lol.esm.js",
   "size-limit": [
     {
