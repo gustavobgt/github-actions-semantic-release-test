@@ -37,6 +37,8 @@
     "trailingComma": "es5"
   },
   "name": "my-package-name-you-want-to-see-on-aws-lol",
+  "repository": "https://github.com/gustavobgt/github-actions-semantic-release-test",
+  "private": true,
   "author": "gustavobgt",
   "module": "dist/my-package-name-you-want-to-see-on-aws-lol.esm.js",
   "size-limit": [
@@ -51,6 +53,8 @@
   ],
   "devDependencies": {
     "@babel/core": "^7.18.13",
+    "@semantic-release/changelog": "^6.0.1",
+    "@semantic-release/git": "^10.0.1",
     "@size-limit/preset-small-lib": "^8.0.1",
     "@storybook/addon-essentials": "^6.5.10",
     "@storybook/addon-info": "^5.3.21",
